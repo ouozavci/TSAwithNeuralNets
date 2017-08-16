@@ -68,7 +68,7 @@ class Trainer:
 
                 sampleMatrix = np.array([[sample[word] for word in sample]]).transpose()
                 l1 = self.nonlin(np.dot(sampleMatrix.T, syn0))
-                y = np.array([0])
+                y = np.array([1])
                 l1_error = y - l1
                 # multiply how much we missed by slope of the sigmoid (nonlin function)
                 l1_delta = l1_error * self.nonlin(l1, True)
