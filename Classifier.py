@@ -41,4 +41,4 @@ class Classifier:
 
         l1 = self.nonlin(np.dot(sampleMatrix.T,syn0))
 
-        print(l1)
+        return l1

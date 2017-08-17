@@ -1,5 +1,6 @@
 import re
 import numpy as np
+from string import digits
 
 min_word_length = 3
 max_word_length = 5
@@ -8,18 +9,30 @@ class Indexer:
     negativeIndex = {}
     positiveIndex = {}
 
-    index_term_capacity = 1000
+    stop_words = open("trstop.txt",'r',encoding="utf8").readlines()
+    for i in range(len(stop_words)):
+        stop_words[i] = stop_words[i].replace("\r", "").replace("\n", "")
+
+    index_term_capacity = 3000
 
     def __init__(self, negativeFileAddress, positiveFileAddress):
         self.nFile = open(negativeFileAddress, 'r', encoding="utf8")
         self.pFile = open(positiveFileAddress, 'r', encoding="utf8")
 
     def fm(self,word):
+
+        remove_digits = str.maketrans('', '', digits)
+        word = word.translate(remove_digits)
+
+        if word in self.stop_words:
+            return None
         if (len(word) < min_word_length):
             return None
         else:
             word = word[:max_word_length]
             word = word.lower()
+            if word in self.stop_words:
+                return None
             return word
 
     def createIndex(self):
@@ -72,5 +85,5 @@ class Indexer:
 
         #np.savetxt("index.txt",array)
         output.close()
-print("Object created")
+
 

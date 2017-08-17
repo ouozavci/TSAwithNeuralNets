@@ -14,8 +14,8 @@ class Trainer:
         for i in range(len(terms)):
             terms[i] = terms[i].replace("\r","").replace("\n","")
 
-        syn0 = 2 * np.random.random((len(terms), 1)) - 1
-
+        #syn0 = 2 * np.random.random((len(terms), 1)) - 1
+        syn0 = np.zeros((len(terms),1)) + 0.5
         #train for negative
         with open(negativeFileAddress, encoding="utf8") as f:
             lines = f.readlines()
@@ -28,7 +28,7 @@ class Trainer:
                 for word in wordsInLine:
                     word = word[: max_word_length]
                     word = word.lower()
-                    if (len(word) > min_word_length):
+                    if (len(word) >= min_word_length):
                         innerIndex[word] = 1
                 for word in terms:
                     if word in innerIndex:
@@ -58,7 +58,7 @@ class Trainer:
                 for word in wordsInLine:
                     word = word[:max_word_length]
                     word = word.lower()
-                    if (len(word) > min_word_length):
+                    if (len(word) >= min_word_length):
                         innerIndex[word] = 1
                 for word in terms:
                     if word in innerIndex:
