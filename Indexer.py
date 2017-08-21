@@ -3,7 +3,7 @@ import numpy as np
 from string import digits
 
 min_word_length = 3
-max_word_length = 5
+max_word_length = 6
 class Indexer:
     allIndex = {}
     negativeIndex = {}
@@ -13,7 +13,7 @@ class Indexer:
     for i in range(len(stop_words)):
         stop_words[i] = stop_words[i].replace("\r", "").replace("\n", "")
 
-    index_term_capacity = 3000
+    index_term_capacity = 5000
 
     def __init__(self, negativeFileAddress, positiveFileAddress):
         self.nFile = open(negativeFileAddress, 'r', encoding="utf8")
@@ -38,7 +38,8 @@ class Indexer:
     def createIndex(self):
         negativeStr = self.nFile.read()
 
-        wordList = re.sub("[^\w]", " ", negativeStr).split()
+
+        wordList = re.sub('[^A-Za-z0-9ğüşçıöĞÜİŞÇÖ]+', ' ', re.sub("[^\w]", " ", negativeStr)).split()
 
         for word in wordList:
             word = self.fm(word)

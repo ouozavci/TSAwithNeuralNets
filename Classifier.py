@@ -6,9 +6,14 @@ from Indexer import min_word_length
 
 class Classifier:
 
+    #def nonlin(self,x, deriv=False):
+    #    if deriv == True:
+    #        return x * (1 - x)
+    #    return 1 / (1 + np.exp(-x))
+
     def nonlin(self,x, deriv=False):
         if deriv == True:
-            return x * (1 - x)
+            return np.exp(-x)/((1+np.exp(-x))*(1+np.exp(-x)))
         return 1 / (1 + np.exp(-x))
 
     def classify(self,comment):
@@ -27,7 +32,7 @@ class Classifier:
         for word in wordsInComment:
             word = word[:max_word_length]
             word = word.lower()
-            if(len(word)>min_word_length):
+            if(len(word)>=min_word_length):
                 innerIndex[word] = 1
         count = 0
         for word in allIndex:
