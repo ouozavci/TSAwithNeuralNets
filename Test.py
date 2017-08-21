@@ -5,11 +5,11 @@ import Classifier as c
 import numpy as np
 import re
 
-i = i.Indexer('negative.txt',"positive.txt")
-i.createIndex()
+#i = i.Indexer('negative.txt',"positive.txt")
+#i.createIndex()
 
-t = t.Trainer(100)
-t.train("negative.txt","positive.txt")
+#t = t.Trainer(100)
+#t.train("negative.txt","positive.txt")
 
 
 c = c.Classifier()
@@ -44,3 +44,13 @@ total_score = total_score/total_comment_count
 
 print("Testing completed!")
 print("Total Score: ",total_score)
+
+while True:
+    comment = input("Yorum: ");
+    score = c.classify(comment)
+    if score > 0.55:
+        print("positive :: ",score)
+    elif score < 0.45:
+        print("negative :: ",score)
+    else:
+        print("neutral :: ",score)

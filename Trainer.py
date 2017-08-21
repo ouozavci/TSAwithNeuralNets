@@ -2,11 +2,32 @@ import numpy as np
 import re
 from Indexer import min_word_length
 from Indexer import max_word_length
+from string import digits
 
 
 class Trainer:
     def __init__(self, iteration):
         self.iteration = iteration
+
+    def fm(self, word):
+
+        remove_digits = str.maketrans('', '', digits)
+        word = word.translate(remove_digits)
+
+        if (len(word) < min_word_length):
+            return None
+        else:
+            word = word[:max_word_length]
+            word = word.lower()
+
+            word = word.replace("ü", "u")
+            word = word.replace("ğ", "g")
+            word = word.replace("ş", "s")
+            word = word.replace("ç", "c")
+            word = word.replace("ı", "i")
+            word = word.replace("ö", "o")
+
+            return word
 
     def train(self, negativeFileAddress, positiveFileAddress):
 
@@ -26,13 +47,12 @@ class Trainer:
         for iter in range(self.iteration):
             print("Training for positive                iteration:: ", iter)
             for lineP in linesP:
-                wordsInLine = re.sub("[^\w]", " ", lineP).split()
+                wordsInLine = re.sub('[^A-Za-z0-9ğüşçıöĞÜİŞÇÖ]+', ' ', re.sub("[^\w]", " ", lineP)).split()
                 sample = {}
                 innerIndex = {}
                 for word in wordsInLine:
-                    word = word[:max_word_length]
-                    word = word.lower()
-                    if (len(word) >= min_word_length):
+                    word = self.fm(word)
+                    if word is not None:
                         innerIndex[word] = 1
                 for word in terms:
                     if word in innerIndex:
@@ -53,14 +73,13 @@ class Trainer:
         # train for negative
             print("Training for negative                iteration:: ", iter)
             for line in linesN:
-                wordsInLine = re.sub("[^\w]", " ", line).split()
+                wordsInLine = re.sub('[^A-Za-z0-9ğüşçıöĞÜİŞÇÖ]+', ' ', re.sub("[^\w]", " ", line)).split()
                 sample = {}
                 innerIndex = {}
                 for word in wordsInLine:
-                    word = word[: max_word_length]
-                    word = word.lower()
-                    if (len(word) >= min_word_length):
-                        innerIndex[word] = 1
+                    word = self.fm(word)
+                    if word is not None:
+                            innerIndex[word] = 1
                 for word in terms:
                     if word in innerIndex:
                         sample[word] = 1;
