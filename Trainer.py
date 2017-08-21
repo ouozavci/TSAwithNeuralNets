@@ -4,6 +4,8 @@ from Indexer import min_word_length
 from Indexer import max_word_length
 from string import digits
 
+import datetime
+
 
 class Trainer:
     def __init__(self, iteration):
@@ -44,10 +46,14 @@ class Trainer:
             linesP = f.readlines()
         with open(negativeFileAddress, encoding="utf8") as f:
             linesN = f.readlines()
+
+        c=len(linesP)
+
         for iter in range(self.iteration):
-            print("Training for positive                iteration:: ", iter)
-            for lineP in linesP:
-                wordsInLine = re.sub('[^A-Za-z0-9ğüşçıöĞÜİŞÇÖ]+', ' ', re.sub("[^\w]", " ", lineP)).split()
+            print("Training             iteration:: ", iter)
+            firstTime = datetime.datetime.now().replace(microsecond=0)
+            for lineCount in range(c):
+                wordsInLine = re.sub('[^A-Za-z0-9ğüşçıöĞÜİŞÇÖ]+', ' ', re.sub("[^\w]", " ", linesP[lineCount])).split()
                 sample = {}
                 innerIndex = {}
                 for word in wordsInLine:
@@ -71,9 +77,9 @@ class Trainer:
                 syn0 += np.dot(sampleMatrix, l1_delta)
 
         # train for negative
-            print("Training for negative                iteration:: ", iter)
-            for line in linesN:
-                wordsInLine = re.sub('[^A-Za-z0-9ğüşçıöĞÜİŞÇÖ]+', ' ', re.sub("[^\w]", " ", line)).split()
+                #print("Training for negative                iteration:: ", iter)
+
+                wordsInLine = re.sub('[^A-Za-z0-9ğüşçıöĞÜİŞÇÖ]+', ' ', re.sub("[^\w]", " ", linesN[lineCount])).split()
                 sample = {}
                 innerIndex = {}
                 for word in wordsInLine:
@@ -95,7 +101,9 @@ class Trainer:
                 #l1_delta = l1_error
                 # update weights
                 syn0 += np.dot(sampleMatrix, l1_delta)
-            ##########################################################################################
+            lastTime = datetime.datetime.now().replace(microsecond=0)
+            print((lastTime - firstTime)*(self.iteration-iter)," kaldı")
+            ############################################################### ###########################
 
 
         print("TRAINING COMPLETED.")

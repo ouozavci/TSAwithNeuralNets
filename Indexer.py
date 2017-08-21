@@ -12,6 +12,17 @@ class Indexer:
     stop_words = open("trstop.txt",'r',encoding="utf8").readlines()
     for i in range(len(stop_words)):
         stop_words[i] = stop_words[i].replace("\r", "").replace("\n", "")
+        remove_digits = str.maketrans('', '', digits)
+        stop_words[i] = stop_words[i].translate(remove_digits)
+
+        stop_words[i] = stop_words[i][:max_word_length]
+        stop_words[i] = stop_words[i].lower()
+        stop_words[i] = stop_words[i].replace("ü", "u")
+        stop_words[i] = stop_words[i].replace("ğ", "g")
+        stop_words[i] = stop_words[i].replace("ş", "s")
+        stop_words[i] = stop_words[i].replace("ç", "c")
+        stop_words[i] = stop_words[i].replace("ı", "i")
+        stop_words[i] = stop_words[i].replace("ö", "o")
 
     index_term_capacity = 5000
 

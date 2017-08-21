@@ -1,4 +1,3 @@
-aaaa
 aang
 aangi
 aangin
@@ -13,6 +12,7 @@ abartti
 abd
 abdulla
 abi
+abidesi
 abim
 absurd
 absurt
@@ -38,7 +38,6 @@ acimasi
 acin
 acinaca
 acinin
-acisi
 acisind
 aciyor
 aciyoru
@@ -85,7 +84,6 @@ ahmet
 ahtapot
 ailesi
 ailesin
-airbend
 ajan
 ajanlar
 ajdar
@@ -106,7 +104,6 @@ aklim
 aklimda
 aklina
 aklinda
-aklini
 akliniz
 akrabal
 aksam
@@ -152,7 +149,6 @@ alici
 alien
 alikoya
 alin
-alinaca
 alinip
 alinti
 alintil
@@ -187,6 +183,7 @@ alsaymi
 alsin
 alt
 alterna
+alti
 altin
 altina
 altinda
@@ -196,10 +193,8 @@ altust
 amac
 amaci
 amacind
-amaciyl
 amacla
 amaclad
-amacli
 amacsiz
 aman
 amator
@@ -212,6 +207,7 @@ amp
 amy
 ana
 anam
+anca
 and
 anda
 andiran
@@ -220,7 +216,6 @@ andrzej
 anektod
 ang
 aniden
-anilari
 animasy
 anime
 animede
@@ -329,7 +324,7 @@ askerle
 askerli
 askina
 asklari
-asmali
+aslinda
 asmis
 astilar
 atacakl
@@ -346,12 +341,12 @@ atlama
 atlanir
 atlanma
 atlanmi
+atlaya
 atlayin
 atlayip
 atleti
 atli
 atliyol
-atliyor
 atmak
 atmakla
 atmez
@@ -465,6 +460,7 @@ basan
 basar
 basarak
 basaram
+basaran
 basardi
 basari
 basaril
@@ -473,6 +469,7 @@ basariy
 basariz
 basarmi
 basi
+basima
 basina
 basinda
 basini
@@ -517,6 +514,8 @@ bayanla
 bayildi
 bayiyo
 bayragi
+bazi
+bazilar
 becerem
 becerik
 bedava
@@ -541,7 +540,6 @@ beklene
 bekleni
 beklent
 beklerd
-beklerk
 bekleye
 bekleyi
 bekliyo
@@ -583,6 +581,7 @@ beyaz
 beyazpe
 beyendi
 beynim
+beynime
 bezdiri
 bicimde
 bidaha
@@ -594,11 +593,11 @@ biktik
 bildigi
 bile
 bilemed
+bilemem
 bilen
 bilenle
 bilet
 biletin
-bileyim
 bilgeli
 bilgi
 bilgile
@@ -624,6 +623,7 @@ binalar
 binaya
 biniyor
 binlerc
+bir
 birak
 birakin
 birakip
@@ -641,19 +641,20 @@ birazda
 birbiri
 birbirl
 birbirn
+bircok
 birdaha
 birde
 birden
 birebir
 birfilm
 biri
+biridir
 biriler
 birinci
 birinde
 birine
 birini
 birinin
-birinsi
 birisid
 biriydi
 birkac
@@ -663,6 +664,7 @@ birlesi
 birlest
 birlik
 birlikt
+birsey
 birseyl
 birtane
 birturl
@@ -686,7 +688,6 @@ bitirey
 bitirme
 bitis
 bitisi
-bitiyo
 bitiyor
 bitmede
 bitmedi
@@ -708,21 +709,21 @@ bizde
 bizimle
 bizleri
 bi̇r
+bkz
 blade
 blaine
 ble
 blood
-bloodra
 bloom
 bnce
 bnm
 bodurun
+bok
 boks
 boksor
 bol
 bolca
 bole
-bolesi
 bolum
 bolumde
 bolumdu
@@ -751,7 +752,6 @@ boyamis
 boyle
 boylesi
 boylu
-boyun
 boyunca
 boyut
 boyutlu
@@ -807,6 +807,7 @@ bunalti
 bune
 bunlara
 bunlard
+bunlari
 bununla
 bunyesi
 buradak
@@ -829,7 +830,6 @@ butler
 butlerd
 butleri
 butun
-butunlu
 butunuy
 buuuuuu
 buydu
@@ -851,9 +851,9 @@ cagda
 cage
 cahi
 cakilmi
-cakma
 cakmasi
 calan
+calgi
 calinmi
 calinti
 calipso
@@ -878,7 +878,6 @@ captain
 carkife
 carpan
 carpiti
-carpitm
 carpiyo
 carredi
 carsaf
@@ -928,7 +927,6 @@ cekmemi
 cekmese
 cekmesi
 cekmeyi
-cekmez
 cekmis
 cekmisl
 cekse
@@ -938,13 +936,17 @@ cektigi
 cektire
 cektirm
 celiski
+cem
+cemcir
 cemil
+cengi
 cep
 cerceve
 cesaret
 cesedi
 cete
 cetenin
+cetin
 cevap
 cevapya
 ceviri
@@ -962,7 +964,6 @@ cikabil
 cikacag
 cikacak
 cikamad
-cikamiy
 cikan
 cikana
 cikar
@@ -1008,7 +1009,6 @@ cimbizl
 cin
 cindere
 cineram
-cinli
 cinlile
 cinsel
 cinsell
@@ -1025,7 +1025,6 @@ cizgi
 cizgifi
 cizgiro
 cizilme
-cizimde
 ciziyor
 ci̇ty
 ci̇tydeh
@@ -1061,8 +1060,8 @@ cuce
 cuervo
 cukuru
 cumle
-cumlede
 cumlesi
+cunku
 cusu
 czgi
 dacasco
@@ -1092,6 +1091,7 @@ darknig
 davet
 david
 davy
+dayak
 dayanab
 dayanam
 dayanay
@@ -1147,7 +1147,6 @@ demek
 demekte
 demekti
 demeli
-dememis
 demesey
 demesi
 demesin
@@ -1166,7 +1165,6 @@ demiyor
 den
 denebil
 denemes
-deneyim
 deneyip
 denildi
 denile
@@ -1192,6 +1190,7 @@ derim
 derin
 derinli
 derken
+dernek
 ders
 derseni
 descent
@@ -1214,6 +1213,7 @@ devredi
 devrim
 devrimc
 devriye
+deyip
 deymez
 dezavan
 dibe
@@ -1221,6 +1221,7 @@ dibi
 dibine
 die
 diger
+digeri
 digerin
 digerle
 digil
@@ -1234,6 +1235,7 @@ dikkate
 dikkati
 dilegim
 dilime
+dilimin
 dille
 dinamik
 dinleme
@@ -1274,12 +1276,12 @@ dizide
 dizidek
 diziden
 dizidir
+diziler
 dizinin
 dizisi
 dizisin
 dizisle
 diziyi
-diziyle
 dkda
 dnen
 dogal
@@ -1300,11 +1302,14 @@ dokunup
 dolar
 dolarli
 dolasma
+dolayi
+dolayis
 dolduru
 dolu
 dondure
 dondurm
 donecek
+donem
 doneme
 donemle
 donen
@@ -1321,6 +1326,7 @@ donuyor
 doom
 dordunc
 dorsay
+dort
 dortluk
 dorukla
 doruqha
@@ -1343,10 +1349,10 @@ dua
 dublaj
 dublajl
 dudikof
+dugun
 dukkanl
 dun
 duncan
-dungeon
 dunya
 dunyada
 dunyala
@@ -1356,6 +1362,7 @@ dunyaya
 dunyayi
 dur
 durabil
+duragan
 durdugu
 durgun
 durmada
@@ -1396,7 +1403,6 @@ dusurur
 dususe
 dususu
 duyarim
-duyayim
 duydu
 duydugu
 duydum
@@ -1410,7 +1416,6 @@ duymak
 duymasi
 duymaya
 duymuor
-duymusl
 duymust
 duyunca
 duyuyor
@@ -1429,7 +1434,6 @@ edebili
 edebiya
 edeceks
 edelim
-edemede
 edemedi
 edememe
 edememi
@@ -1456,10 +1460,10 @@ edince
 edinmis
 edio
 edioyo
+edip
 ediyola
 ediyord
 ediyoru
-ediyosa
 edlebil
 eee
 eeng
@@ -1478,6 +1482,7 @@ efsanel
 efsanes
 efsanev
 efsaney
+eger
 egerki
 egilmez
 egitiml
@@ -1541,6 +1546,7 @@ ender
 enfes
 eng
 engelle
+entel
 entelle
 erbil
 erbile
@@ -1554,7 +1560,6 @@ ertem
 esareti
 esas
 eser
-eseri
 eserler
 esine
 esintil
@@ -1569,7 +1574,6 @@ esprile
 esprili
 esprisi
 espriye
-estetig
 estetik
 estiril
 etegini
@@ -1590,6 +1594,7 @@ etmek
 etmekde
 etmeler
 etmem
+etmemek
 etmemes
 etmesey
 etmesin
@@ -1604,12 +1609,12 @@ etmiyor
 etrafin
 etsin
 etsinle
+ettigi
 ettigim
 ettim
 ettiren
 evde
 evden
-even
 evet
 evladi
 evler
@@ -1617,6 +1622,7 @@ evlere
 evrim
 evrimse
 ezberim
+ezgi
 eziklig
 facia
 fagmani
@@ -1660,6 +1666,7 @@ fighter
 figuran
 fikir
 fikirle
+fikret
 fikri
 fikrini
 fildeki
@@ -1672,7 +1679,6 @@ filimle
 filin
 film
 filmban
-filmd
 filmdek
 filmdi
 filmdii
@@ -1698,7 +1704,6 @@ filmm
 filmmi
 filmmis
 fim
-fimleri
 final
 finalde
 finali
@@ -1706,7 +1711,6 @@ finalin
 firarda
 firin
 firsati
-fistik
 fiyasko
 fiyatla
 fizikse
@@ -1759,11 +1763,11 @@ gecinip
 gecir
 gecirdi
 gecirec
-gecirip
 geciriy
 gecirme
 gecis
 gecisle
+gecisti
 geciyor
 gecmek
 gecmeli
@@ -1775,7 +1779,9 @@ gecmiyo
 gecti
 gectigi
 gectim
+gel
 geldi
+geldigi
 gelebil
 geleceg
 gelecek
@@ -1837,7 +1843,6 @@ geriled
 gerilim
 geriliy
 gerisi
-gerisid
 gerisin
 geriye
 geroekt
@@ -1853,7 +1858,6 @@ getirme
 getirmi
 getirsi
 geveze
-gevsemi
 geyik
 gezmede
 gezmemi
@@ -1862,7 +1866,6 @@ gibi
 gibiler
 gibiydi
 gicik
-giddile
 gidebil
 gidecek
 gidecem
@@ -1901,7 +1904,6 @@ girince
 giriyo
 giriyor
 girmedi
-girmek
 girmeme
 girmemi
 girmeye
@@ -1924,6 +1926,7 @@ gitmez
 gitmezd
 gitmezs
 gitmis
+gitmist
 gitmyin
 gitsede
 gitsek
@@ -1932,6 +1935,7 @@ gitsin
 gittgim
 gitti
 gittigi
+gittik
 gittim
 gittimi
 giydirm
@@ -1944,6 +1948,7 @@ gi̇zeml
 gladiat
 gladyat
 globall
+gokbaka
 gokten
 goku
 goldenr
@@ -2018,8 +2023,12 @@ gulben
 guldugu
 gulduk
 guldum
+guldure
+guldurm
 gulduru
 guleceg
+gulelim
+gulemed
 gulen
 guler
 gulista
@@ -2105,9 +2114,7 @@ harcadi
 harcama
 harcami
 harcana
-harcani
 harcanm
-harcans
 harcaya
 harci
 harciyo
@@ -2179,11 +2186,11 @@ heele
 helal
 hele
 heleki
-helekop
 hemcebe
 hemde
 hemen
 hemso
+henuz
 hepimiz
 hepiniz
 hepside
@@ -2214,6 +2221,7 @@ hezimet
 hibirse
 hic
 hicbir
+hicbiri
 hicbirs
 hicbise
 hicte
@@ -2228,7 +2236,6 @@ hikye
 hiltonu
 hint
 hintli
-hintlil
 hirsi
 his
 hispavi
@@ -2277,6 +2284,7 @@ icermem
 ici
 icimizi
 icin
+icinde
 icindek
 icinden
 icindey
@@ -2286,11 +2294,9 @@ icini
 icinizd
 icinize
 icinizi
-icler
 icten
 idare
 iddia
-iddiasi
 ideoloj
 idi
 ifade
@@ -2302,10 +2308,10 @@ igrenc
 igrencl
 igrenct
 ihtimal
-ihtiyaa
 ihtiyac
 ikicisi
 ikidebi
+ikilisi
 ikinci
 ikincis
 ikinciy
@@ -2348,6 +2354,7 @@ imkansi
 imza
 imzasin
 inanami
+inandir
 inanilm
 inanin
 inanip
@@ -2364,6 +2371,7 @@ inci
 inde
 indirsi
 ingiliz
+inkar
 inmis
 inmisti
 insalla
@@ -2387,7 +2395,6 @@ iri
 iroh
 isareti
 isciler
-ise
 isgali
 isi
 isik
@@ -2406,6 +2413,8 @@ islenis
 islenmi
 isler
 islerde
+islere
+islerin
 islerke
 isleyis
 ismi
@@ -2440,12 +2449,11 @@ istisma
 istisna
 istiyor
 istiyos
-itibari
 itici
+ivedik
 iyi
 iyice
 iyiden
-iyidi
 iyiki
 iyiler
 iyimser
@@ -2501,6 +2509,7 @@ izletse
 izletti
 izleyeb
 izleyec
+izleyel
 izleyem
 izleyen
 izleyes
@@ -2514,7 +2523,6 @@ izliyen
 izliyip
 izliyor
 izmeley
-i̇cine
 i̇ddia
 i̇ki
 i̇kinci
@@ -2617,7 +2625,6 @@ kahkaha
 kahrama
 kalacak
 kalan
-kalasta
 kald
 kaldi
 kaldigi
@@ -2678,6 +2685,7 @@ kararli
 karasi
 karate
 karayip
+kardes
 kardesi
 kardesl
 kare
@@ -2687,7 +2695,6 @@ karesi
 karesin
 karga
 kargada
-kargasa
 kari
 karisik
 karisin
@@ -2702,10 +2709,12 @@ karsila
 karsili
 karsima
 karsimi
+karsin
 karsini
 karsisi
 karsiya
 karukat
+kasa
 kasitli
 kaslari
 kasli
@@ -2717,6 +2726,7 @@ katara
 kategor
 kati
 katil
+katila
 katildi
 katiliy
 katilmi
@@ -2731,7 +2741,6 @@ katlett
 katmaya
 katmis
 kavrami
-kavraml
 kavusal
 kaybede
 kaybetm
@@ -2759,7 +2768,6 @@ kemal
 kemikle
 ken
 kenara
-kendile
 kendimd
 kendime
 kendimi
@@ -2797,7 +2805,6 @@ kimseye
 kiniyor
 kirdi
 kirikli
-kirletm
 kirmama
 kirmizi
 kirpama
@@ -2861,9 +2868,7 @@ komik
 komikli
 komikte
 komikti
-komuniz
 komutan
-konak
 konmama
 konserv
 konsolo
@@ -2932,7 +2937,6 @@ koymami
 koymani
 koymasa
 koymaya
-koymazl
 koymusl
 koysak
 koysala
@@ -2963,6 +2967,7 @@ kumar
 kumarha
 kumas
 kung
+kural
 kurgu
 kurguda
 kurgula
@@ -2980,6 +2985,7 @@ kurtarm
 kurtula
 kurtuld
 kurtuls
+kurtulu
 kuru
 kustum
 kusura
@@ -3000,12 +3006,12 @@ lafim
 lafin
 lahana
 lakin
+lan
 lanet
 laneti
 lanetle
 lanse
 lar
-last
 layik
 lazim
 ldu
@@ -3023,6 +3029,7 @@ leri
 lerimiz
 lerin
 let
+letonya
 levent
 lezzeti
 liam
@@ -3081,7 +3088,6 @@ mantik
 mantikl
 mantiks
 manyaxs
-manzara
 marcus
 marienl
 mark
@@ -3089,7 +3095,6 @@ marka
 markala
 markasi
 markett
-marslar
 marvel
 masali
 masalla
@@ -3123,6 +3128,7 @@ mektupt
 melek
 memleke
 memnun
+memuru
 merak
 merakim
 merakla
@@ -3134,7 +3140,6 @@ mesaji
 mesajla
 mesela
 metre
-metrede
 michael
 michell
 midem
@@ -3162,6 +3167,7 @@ miye
 mizah
 modern
 moku
+mola
 monica
 montaj
 montana
@@ -3173,7 +3179,6 @@ muhabbe
 muhteme
 muhtese
 mukemme
-mum
 mumkun
 mumla
 mumtaz
@@ -3206,6 +3211,7 @@ natural
 naylon
 nda
 nede
+nedeni
 nedeniy
 nedense
 nedir
@@ -3220,6 +3226,7 @@ nemo
 neo
 nerden
 nerdeys
+nereden
 neredes
 neredey
 neremle
@@ -3227,12 +3234,10 @@ neresi
 neresin
 neseli
 nesi
-nesle
 net
 netekim
 neticed
 neticey
-netlest
 nevi
 new
 neydi
@@ -3244,11 +3249,14 @@ niceler
 nichals
 nichola
 nichols
+nicin
 nickli
 nicolas
 nie
 night
 nihayet
+nikah
+nin
 nisbete
 nispeli
 nispete
@@ -3256,7 +3264,6 @@ nitelen
 nitelik
 niyetle
 niyetli
-noah
 nobetci
 nokta
 noktala
@@ -3273,6 +3280,7 @@ notu
 numara
 numaral
 numaray
+nun
 obile
 ocak
 oceans
@@ -3290,9 +3298,7 @@ ofkesin
 oge
 ogeler
 ogeleri
-oglana
 oglu
-oglunu
 ogrendi
 ogreneb
 ogrenec
@@ -3331,11 +3337,9 @@ olark
 olasili
 olay
 olaya
-olaydan
 olaydim
 olaydir
 olayin
-olayina
 olaylar
 olaz
 olcak
@@ -3343,6 +3347,7 @@ olcegin
 oldman
 oldu
 olduda
+oldugu
 oldugum
 oldugun
 oldukca
@@ -3355,6 +3360,7 @@ oleydi
 olimpiy
 olma
 olmadan
+olmadi
 olmadig
 olmadim
 olmakla
@@ -3372,6 +3378,7 @@ olmasa
 olmasad
 olmasan
 olmasay
+olmasi
 olmasin
 olmaya
 olmayab
@@ -3380,7 +3387,6 @@ olmayal
 olmazmi
 olmazsa
 olmeden
-olmicak
 olmucak
 olmus
 olmusbu
@@ -3394,10 +3400,10 @@ olsada
 olsam
 olsaniz
 olsaydi
-olsaymi
 olta
 olu
 olucak
+olum
 olumcul
 olumlu
 olumsuz
@@ -3420,6 +3426,7 @@ oluyoru
 oluyoz
 omercip
 onca
+once
 onceden
 onceki
 oncekil
@@ -3439,17 +3446,14 @@ oneriri
 onerisi
 oneriyo
 onermiy
-onlaram
 onlarca
+onlari
 onuda
 onune
-onunuzd
 onyargi
 onyil
-oolmama
 ooong
 opusme
-opusmel
 oranla
 oraya
 orda
@@ -3481,6 +3485,7 @@ oscarla
 oskar
 oskari
 osmanli
+ote
 otesi
 otesind
 oteye
@@ -3488,6 +3493,7 @@ otomati
 otorite
 oturmam
 oturtma
+oturu
 oturup
 ourda
 ovgu
@@ -3495,22 +3501,20 @@ ovgusu
 ovmustu
 ovune
 ovunuyo
-oydu
 oyku
 oykunun
 oykusu
 oylar
+oyle
 oylesin
 oynadi
 oynadig
 oynadim
-oynamal
 oynamas
 oynamay
 oynamis
 oynanir
 oynanmi
-oynarim
 oynasa
 oynasal
 oynasay
@@ -3523,7 +3527,6 @@ oynatti
 oynayac
 oynayam
 oynayan
-oynuyo
 oynuyor
 oyuculu
 oyun
@@ -3604,7 +3607,6 @@ pesinde
 pesine
 pespaye
 peter
-pfeiffe
 picolo
 pisman
 pismani
@@ -3633,7 +3635,6 @@ politik
 polmikl
 polonya
 populer
-porno
 pornogr
 portman
 potansi
@@ -3668,7 +3669,6 @@ rahat
 rahatli
 rahatsi
 rahsan
-rakibi
 rambo
 ramen
 rant
@@ -3702,7 +3702,6 @@ rezalet
 rezil
 richard
 rick
-ringeri
 rings
 ripke
 rises
@@ -3714,6 +3713,7 @@ rocky
 rol
 role
 roller
+rollerd
 rolleri
 rolu
 rolun
@@ -3763,17 +3763,17 @@ sade
 sadece
 saf
 safak
+saffet
 safhaya
 safsata
-safta
 saga
 saglam
-saglana
 sagligi
 saglik
 sagma
 sah
 saha
+sahan
 sahane
 sahaser
 saheser
@@ -3784,6 +3784,7 @@ sahnede
 sahnele
 sahneni
 sahnesi
+sahneyi
 sahneyl
 sahsen
 sahte
@@ -3793,11 +3794,13 @@ sakarli
 sakin
 salak
 salardi
+saldiri
 salon
 salonda
 salonla
 sam
 saman
+samimi
 sampiyo
 sanat
 sanatsa
@@ -3805,7 +3808,6 @@ sanatta
 sanatti
 sanctum
 sandigi
-sanip
 sanirim
 sanirsi
 saniye
@@ -3865,13 +3867,13 @@ sebebi
 sebeple
 secer
 secerek
-secilse
 secimdi
 secimiy
 secimle
 secmele
 sectigi
 sefer
+seferin
 seferki
 sefil
 sehir
@@ -3905,6 +3907,7 @@ serisin
 serisis
 seriye
 seriyi
+sert
 sertles
 seruven
 servis
@@ -3941,14 +3944,16 @@ sewmedi
 sex
 sexy
 sey
+seye
+seyi
 seyin
 seyirci
 seyirde
 seyirle
+seyler
 seylere
 seyleri
 seylerl
-seyrade
 seyrede
 seyredi
 seyretm
@@ -3959,7 +3964,6 @@ sezdim
 sezer
 sezere
 sezerin
-sezon
 sezonla
 sezonu
 sezonun
@@ -3967,7 +3971,6 @@ shakesp
 shape
 sharon
 shaun
-shayala
 sho
 shot
 shovu
@@ -3978,7 +3981,6 @@ sicakli
 sicriyo
 siddet
 siddetl
-siege
 sifir
 sifira
 sigdirm
@@ -4017,6 +4019,7 @@ sinemad
 sinemal
 sineman
 sinemas
+sinemat
 sinemay
 sinepua
 sini
@@ -4038,13 +4041,13 @@ sirinli
 siritma
 siritti
 siska
-sisko
 sistemi
 sitede
 siteler
 sitesin
 siteye
 sivasli
+sivesi
 sivri
 siyah
 siyahil
@@ -4058,7 +4061,6 @@ smallvi
 smart
 smith
 soguk
-sogurla
 sogursu
 sogutma
 sogutuy
@@ -4074,11 +4076,11 @@ sokga
 sokka
 sokkaya
 sokkayi
-sokma
 sokmak
 soktugu
 sokulan
 sokup
+sol
 sola
 soludug
 soluksu
@@ -4088,7 +4090,6 @@ son
 sona
 sondaki
 sondan
-sondu
 songoku
 sonlana
 sonland
@@ -4110,6 +4111,7 @@ sonunda
 sonunu
 soralim
 sorarim
+sorarsa
 sordurt
 sorgula
 sormada
@@ -4121,6 +4123,7 @@ sorunu
 sorusun
 soruyor
 sovalye
+soyle
 soyledi
 soyleme
 soylemi
@@ -4140,7 +4143,6 @@ sozleri
 sparovu
 sparrow
 spartad
-speed
 spiderm
 spirit
 spiriti
@@ -4213,7 +4215,6 @@ taht
 tahtina
 takdir
 takdirl
-taken
 takilma
 takilmi
 takim
@@ -4227,6 +4228,7 @@ tamami
 tamamin
 tamamla
 tamer
+tan
 tane
 tanesi
 tanesin
@@ -4242,6 +4244,7 @@ tanrim
 tapinag
 tarafa
 tarafi
+tarafin
 tarafta
 taranti
 tarih
@@ -4258,7 +4261,6 @@ tas
 tasarim
 tasarla
 tasi
-tasidig
 tasimis
 tasimiy
 tasirla
@@ -4276,7 +4278,6 @@ tawsiye
 tayfala
 tayfur
 taylan
-tebessu
 tebrik
 tebrikl
 tefek
@@ -4298,7 +4299,6 @@ televiz
 telkinl
 tema
 temasi
-tembel
 temizli
 tempo
 temposu
@@ -4364,9 +4364,9 @@ trassss
 trt
 truva
 tuf
-tufegi
 tufu
 tum
+tupcu
 tuplu
 tur
 turbo
@@ -4388,23 +4388,21 @@ turunu
 turunun
 tutabil
 tutamaz
-tutarli
 tutarsa
 tutarsi
 tutkunu
 tutkusu
-tutmadi
 tutmak
 tutmasi
 tutmaz
 tutsak
 tutsayd
+tuttu
 tuttugu
 tuttum
 tutukun
 tutun
 tutunam
-tutuyor
 tuyleri
 tuzagi
 uan
@@ -4418,6 +4416,7 @@ uclemes
 uclemey
 uclenem
 uclu
+uclusun
 ucu
 ucude
 ucuncu
@@ -4429,6 +4428,7 @@ ucuza
 ufak
 ugradig
 ugradim
+ugramam
 ugraman
 ugrasip
 ugrasma
@@ -4486,7 +4486,6 @@ usturup
 utaniyo
 utanmas
 uyandir
-uyarala
 uyarayi
 uyari
 uyarimi
@@ -4502,22 +4501,19 @@ uykum
 uykunuz
 uyudum
 uyumak
-uyusmam
-uyusmay
-uyusuyo
 uyuyara
 uzak
 uzakdog
 uzaktan
 uzatila
 uzatilm
-uzatmay
 uzatmis
 uzattik
 uzay
 uzaylil
 uzayliy
 uzdu
+uzere
 uzereyd
 uzerind
 uzerine
@@ -4544,6 +4540,7 @@ vampiri
 vampirl
 van
 vard
+vardi
 vardir
 varken
 varki
@@ -4615,7 +4612,6 @@ veterin
 vewrilm
 veye
 vfxin
-vidalar
 video
 vidoq
 vietnam
@@ -4625,7 +4621,6 @@ vizyona
 vizyond
 vizyons
 vizyonu
-vnin
 vosloo
 vur
 vurdum
@@ -4668,10 +4663,12 @@ yakisti
 yaklasa
 yaklasi
 yaklasm
+yaklast
 yaksin
 yalan
 yalnizc
 yamuk
+yan
 yana
 yanan
 yani
@@ -4703,6 +4700,7 @@ yaparsa
 yapilab
 yapilac
 yapilam
+yapilan
 yapildi
 yapilir
 yapiliy
@@ -4718,10 +4716,10 @@ yapisan
 yapisti
 yapit
 yapitla
-yapitti
 yapiyim
 yapiyo
 yapiyom
+yapiyor
 yapma
 yapmaci
 yapmadi
@@ -4739,7 +4737,10 @@ yapsa
 yapsala
 yapsan
 yapsin
+yapti
+yaptigi
 yaptiki
+yaptikl
 yaptikt
 yaptila
 yara
@@ -4759,6 +4760,7 @@ yardimc
 yargila
 yargili
 yargisi
+yargiyl
 yari
 yarida
 yarim
@@ -4766,7 +4768,6 @@ yaris
 yarisi
 yarisin
 yariya
-yariyor
 yas
 yasa
 yasadig
@@ -4774,12 +4775,11 @@ yasadik
 yasadim
 yasam
 yasamad
+yasanab
 yasanan
 yasasin
-yasatac
 yasayab
 yasayan
-yasayin
 yasinda
 yasiyor
 yaslari
@@ -4801,6 +4801,7 @@ yazanla
 yazar
 yazarke
 yazarla
+yazayim
 yazdigi
 yazida
 yazidak
@@ -4809,15 +4810,14 @@ yazikk
 yazikki
 yazikkk
 yazikla
+yazilan
 yazilar
 yazilir
-yaziliy
 yaziyor
 yazmak
 yazmakl
 yazmaya
 yazmisl
-yazsam
 yazzik
 yedin
 yelda
@@ -4860,8 +4860,6 @@ yha
 yigini
 yikan
 yikik
-yikildi
-yikilma
 yikip
 yikmak
 yiksin
@@ -4880,6 +4878,7 @@ yillarn
 yinede
 yingyan
 yle
+yogun
 yok
 yokediy
 yokken
@@ -4897,7 +4896,6 @@ yolunda
 yonetim
 yonetme
 yonetti
-yonlu
 yonu
 yonunde
 yonuyle
@@ -4913,14 +4911,15 @@ you
 yours
 yozlasm
 yuh
-yuhhh
 yukari
 yukarid
 yuklu
 yuksek
 yuksekl
 yukseld
+yuksele
 yukseli
+yukselt
 yumagi
 yuman
 yun
@@ -4928,6 +4927,7 @@ yunrugu
 yuregin
 yurtdis
 yuuznde
+yuz
 yuzbinl
 yuzde
 yuzden
